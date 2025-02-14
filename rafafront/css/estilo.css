@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h1 {
+    color: #4682b4;
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.card {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: left;
+    position: relative;
+}
+.card-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+}
+
+.video {
+    margin-top: 20px;
+}
+
+.video img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+{
+.hq-image-container
+.container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; /* Centraliza na vertical */
+    height: 100vh; /* Ocupa a tela inteira */
+}
+
+
+imagem3
+. {
+    display: block; 
+    margin-left: 150px; /* Ajuste o valor conforme necessário */
+}
+
+
